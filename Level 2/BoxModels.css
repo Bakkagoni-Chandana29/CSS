@@ -1,0 +1,40 @@
+/* Box Models - height, width, border, padding, margin */
+
+div {
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    /* text-align: center; */
+    border-radius: 50%;
+    /* margin: 50px; */
+    /* margin : 10px 20px 30px 40px; */
+}
+
+h1 {
+    width: 200px;
+    /* height: 50px; */
+    background-color:blanchedalmond;
+    border-style:solid;
+    text-align: center;
+}
+
+p {
+    /* border-width: 2px;
+    border-style: dotted;
+    border-color: black; */
+    border: 2px dotted black;
+    background-color:bisque;
+    border-radius: 8px;
+}
+
+button {
+    /* 
+    padding-bottom:10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px; 
+    */
+    /* padding : 10px; */ /* applies same pixels for all sides */
+
+    padding: 6px 10px 14px 18px; /* top | right | bottom | left => clockwise*/
+}

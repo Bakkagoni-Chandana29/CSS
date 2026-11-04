@@ -1,0 +1,59 @@
+/*
+.traffic-light {
+    width: 150px;
+    height: 440px;
+    background-color: black;
+    border-radius: 30px;
+    margin-left: 150px;
+    margin-top: 100px;
+}
+
+.red {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border-radius: 50%;
+    margin: 25px;  
+}
+
+.yellow {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    border-radius: 50%;
+    margin: 25px;
+}
+
+.green {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    border-radius: 50%;
+    margin: 25px;
+}
+*/
+
+* {
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+
+#navbar {
+    padding-top: 10px;
+    height: 60px;
+    background-color: black;
+}
+
+button {
+    background-color: #f08804;
+}
+
+#logo {
+    color: #f08804;
+}
+
+a {
+    margin-right: 200px;
+    text-decoration:none;
+}

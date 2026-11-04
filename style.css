@@ -1,0 +1,96 @@
+/* Color System */
+/*h1 {
+    color:black;
+}
+
+p {
+    color:rgb(198, 95, 184); 
+}
+
+button {
+    color: #fc6b03;
+    /* background-color:rgb(0, 0, 255);  */
+    /* background-color:#000099; */
+/* } */
+
+/* body { */
+    /* background-color:lightgray; */
+    /* background-color:#ffff00; */
+    /* background-color:#C5C0BA; */
+/* } */
+
+/* Universal selector */
+/* *{
+    color:blue;
+} */
+
+/* Element selector */
+
+/* h1 {
+    color:green;
+}
+button {
+    color:brown;
+} */
+
+/* Id selector */
+/* #main-title1 {
+    color:rgb(198, 95, 184);
+}
+#main-title2 {
+    color:chocolate;
+} */
+
+/* Class selector */
+/* .myClass {
+    color:magenta;
+} */
+
+/* Text Properties */
+p {
+    text-align:left;
+    font-weight:600;
+}
+/*
+h1 {
+    text-align:center;
+    text-decoration:blue wavy underline;
+    /* text-decoration:overline; */
+    /* text-decoration:line-through; */
+/*}*/
+
+a {
+    text-decoration: none;
+}
+
+/* font-weight */
+/*
+#h1 {
+    font-weight:normal;
+}
+#h2 {
+    font-weight:bold;
+}
+#h3 {
+    font-weight:bolder;
+}
+#h4 {
+    font-weight:lighter;
+}
+*/
+
+#one {
+    font-family:arial;
+    /* font-size:10px; */
+    line-height: 20px;
+    text-transform:uppercase;
+}
+#two {
+    font-family:cursive;
+    /* font-size:20px; */
+    line-height: 50px;
+    text-transform: capitalize;
+}
+
+
+
